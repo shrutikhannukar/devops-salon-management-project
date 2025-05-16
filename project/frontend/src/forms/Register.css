@@ -1,0 +1,146 @@
+/* .mainheading{
+    margin-left: 2%;
+  }
+  
+   */
+  /* parlour details  css*/
+  
+  /* #parlour_name{
+    height: 5vh;
+    width: 40vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+  
+  #contact_number{
+    height: 5vh;
+    width: 40vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+  
+  #city{
+    height: 5vh;
+    width: 40vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+  
+  #state{
+    height: 5vh;
+    width: 40vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+  
+  #pincode{
+    height: 5vh;
+    width: 40vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+  
+  #country{
+    height: 5vh;
+    width: 40vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+  #parlour_address{
+    height: 10vh;
+    width: 85vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  
+  }
+   */
+  /* owner details  css*/
+  
+  /* #owner_first_name{
+    height: 5vh;
+    width: 40vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+  
+  #owner_last_name{
+    height: 5vh;
+    width: 40vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+  
+  #email{
+    height: 5vh;
+    width: 40vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  } */
+  
+  /* menu details css*/
+  /* #menu{
+    height: 10vh;
+    width: 85vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+  
+  .header2{
+    margin-left: 2%;
+  }
+  
+  #timing{
+    height: 5vh;
+    width: 40vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+  
+  #highlights{
+    height: 10vh;
+    width: 85vw;
+    margin-left: 5%;
+    margin-top: 2%;
+  }
+  
+  #images{
+    margin-left: 5%;
+   
+  }
+  
+  .button1{
+    height: 5vh;
+    width: 40vw;
+    margin-left: 30%;
+    margin-top: 3%;
+    background-color: rgb(48, 139, 224);
+  } */
+
+  
+.register_container{
+    backdrop-filter: blur(5px);
+   /* overflow: hidden; */
+    margin-left: 25vw;
+    margin-right: 25vw;
+    margin-top: 10vh;
+    width: 50vw;
+    border-radius: 10px;
+    /* position: absolute; */
+  
+    }
+
+    .box{
+        grid-template-columns: auto auto auto;
+        justify-content: space-between;
+    }
+
+    
+    /* .register_container:hover{
+        border: solid rgb(168, 165, 165) 1px;
+    } */
+ /* .form_container{
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    white-space: nowrap;
+ } */

@@ -1,0 +1,22 @@
+
+.Sign_up_container{
+    backdrop-filter: blur(5px);
+    width: 30vw;
+    margin-top: 20vh;
+    margin-left: 35vw;
+    border:transparent  ;
+    /* border-width: 1px; */
+    border-radius: 10px;
+    /* position: absolute; */
+  
+    }
+    /* .Sign_up_container:hover{
+        border: solid rgb(168, 165, 165) 1px;
+    } */
+
+/* .frontimage{
+    background-image: url('../pages/frontscreen.jpg');
+    background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+} */

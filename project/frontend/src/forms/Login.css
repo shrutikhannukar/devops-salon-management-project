@@ -1,0 +1,22 @@
+
+.Login_container1{
+    backdrop-filter: blur(5px);
+    width: 30vw;
+    margin-top: 20vh;
+    margin-left: 35vw;
+    border-radius: 10px;
+    height: 30vh;
+
+    /* position: absolute; */
+  
+    }
+    /* .Login_container1:hover{
+        border: solid rgb(168, 165, 165) 1px;
+    } */
+
+/* .frontimage{
+    background-image: url('../pages/frontscreen.jpg');
+    background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+} */
